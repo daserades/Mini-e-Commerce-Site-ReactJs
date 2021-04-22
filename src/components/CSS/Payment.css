@@ -1,0 +1,30 @@
+.payment {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.payment > h1 {
+    color: crimson;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 50px;
+}
+
+.payment__title {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.payment__address {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+

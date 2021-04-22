@@ -1,0 +1,25 @@
+.contact {
+    text-align: center;
+
+}
+ .contact > h3 {
+     font-size: 40px;
+     padding-top: 20px;
+ }
+
+.p1 {
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    justify-content: center;
+}
+
+.p2 {
+    text-align: left;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    justify-content: center;
+}
